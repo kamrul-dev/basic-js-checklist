@@ -15,9 +15,9 @@
 
 // 8. Declare an array. number of elements. 4th position elements update or change, add or remove elements. check whether specific value exists in the array
 
-// 9. use any for loop display every elements of and array.
+// 9. use any for loop display every elements of an array.
 
-// 10. You have and array of number . display only the numbers bigger than 80
+// 10. You have an array of number . display only the numbers bigger than 80
 
 // 11. write a function that takes three numbers and return multiplication of three numbers.
 
